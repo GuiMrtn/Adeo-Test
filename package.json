@@ -1,0 +1,14 @@
+{
+  "name": "node-test-recruitement",
+  "version": "1.0.0",
+  "description": "recruitement test adeo",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Martin Piat",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
