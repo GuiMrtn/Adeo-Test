@@ -1,5 +1,12 @@
 # Javascript developer test
 
+# Launch
+Install dependancies and node modules with npm i
+
+Launch filter command : node app.js --filter=<value to filter>
+Launch count command : nomde app.js count
+Launch test: npm test
+
 ## Filter
 
 Your job is to write a command-line interface in Node.js.
